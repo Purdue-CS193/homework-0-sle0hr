@@ -10,5 +10,10 @@ This is how you print out code
 System.out.println("hello World")
 
 ```
+I wanted to try out an numbered list
+1. a
+2. b
+3. c
+
 
 *Is this how you ittalize*
